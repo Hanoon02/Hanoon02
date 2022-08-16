@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JS
+- 🌱 Currently learning Web Development
 - ⚡ First year student as IIITD CSE
 
 
