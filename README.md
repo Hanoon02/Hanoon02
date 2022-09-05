@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Currently learning Web Development
-- ⚡ First year student as IIITD CSE
+- ⚡ Second year student as IIITD CSE
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hanoon02&theme=highcontrast&show_icons=true&count_private=true)
