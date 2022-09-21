@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Hanoon02/Hanoon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hanoon02/Hanoon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 - 🌱 Currently learning Web Development
 - ⚡ Second year student in IIITD
